@@ -1,0 +1,145 @@
+SQL script for a database containing information on books and the authors of these books. 
+
+CREATE TABLE Books (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(255) UNIQUE NOT NULL,
+    author_id INT,
+    pages INT,
+    year_released INT,
+    one_sentence_summary TEXT,
+    FOREIGN KEY (author_id) REFERENCES Authors(author_id)
+);
+
+CREATE TABLE Authors (
+    author_id INT PRIMARY KEY,
+    name VARCHAR(255) UNIQUE NOT NULL,
+    birthyear INT,
+    famous_quote TEXT
+);
+
+Insert sample data for 15 authors: 
+
+    INSERT INTO Authors (author_id, name, birthyear, famous_quote)
+    VALUES (1, 'J.K. Rowling', 1965, 'Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.'),
+    (2, 'Harper Lee', 1926, 'You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it.'),
+    (3, 'Dr. Seuss', 1904, 'Don\'t cry because it\'s over, smile because it happened.'),
+    (4, 'Mark Twain', 1835, 'If you tell the truth, you don\'t have to remember anything.'),
+    (5, 'Leo Tolstoy', 1828, 'Everyone thinks of changing the world, but no one thinks of changing himself.'),
+    (6, 'Antoine de Saint-Exupéry', 1900, 'It is only with the heart that one can see rightly; what is essential is invisible to the eye.'),
+    (7, 'Maya Angelou', 1928, 'I\'ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.'),
+    (8, 'George Orwell', 1903, 'War is peace. Freedom is slavery. Ignorance is strength.'),
+    (9, 'Ralph Waldo Emerson', 1803, 'For every minute you are angry you lose sixty seconds of happiness.'),
+    (10, 'Margaret Atwood', 1939, 'Men are afraid that women will laugh at them. Women are afraid that men will kill them.'),
+    (11, 'Albert Einstein', 1879, 'Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe.'),
+    (12, 'F. Scott Fitzgerald', 1896, 'So we beat on, boats against the current, borne back ceaselessly into the past.'),
+    (13, 'J.D. Salinger', 1919, 'I am always saying \"Glad to\'ve met you\" to somebody I\'m not at all glad I met. If you want to stay alive, you have to say that stuff, though.'),
+    (14, 'Vladimir Nabokov', 1899, 'Behold, I prove to you that love is stronger than death.'),
+    (15, 'Herman Melville', 1819, 'It is better to fail in originality than to succeed in imitation.');
+  
+Insert sample data for books by J.k. Rowling:
+
+
+     INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (1, 'Harry Potter and the Philosopher\'s Stone', 1, 223, 1997, 'Harry Potter\'s life is changed forever when he is summoned to attend an infamous school for wizards, and he is thrust into a world he never dreamed of.'),
+    (2, 'Harry Potter and the Chamber of Secrets', 1, 251, 1998, 'The follow-up to "Philosopher\'s Stone" finds young wizard Harry Potter again facing the evil Lord Voldemort, who is not only attempting to conquer Hogwarts School of Witchcraft and Wizardry, but the wizarding world itself.'),
+    (3, 'Harry Potter and the Prisoner of Azkaban', 1, 317, 1999, 'Harry Potter spends a miserable summer with his only remaining relatives, the Dursleys, until a mysterious letter arrives with the news that he has been accepted into Hogwarts School of Witchcraft and Wizardry.'),
+    (4, 'Harry Potter and the Goblet of Fire', 1, 636, 2000, 'Harry Potter is mysteriously selected to compete in the Tri-Wizard Tournament, a grueling contest among three schools of magic.'),
+    (5, 'Harry Potter and the Order of the Phoenix', 1, 752, 2003, 'When the government\'s attack on student liberty and Professor Dumbledore\'s leadership at Hogwarts backfires, it\'s up to Harry Potter and his friends to teach their elders a lesson.'),
+    (6, 'Harry Potter and the Half-Blood Prince', 1, 652, 2005, 'As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Harry and Dumbledore work to find the key to unlock Voldemort\'s defenses.'),
+    (7, 'Harry Potter and the Deathly Hallows', 1, 784, 2007, 'Harry, Ron and Hermione search for Voldemort\'s remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.');
+
+Insert sample data for books by Harper Lee:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (8, 'To Kill a Mockingbird', 2, 281, 1960, 'A young girl, Scout, gets to experience the racial tensions in the small town of Maycomb, Alabama, in the 1930s when her father, Atticus Finch, defends a black man accused of a crime he did not commit.');
+
+Insert sample data for books by Dr. Seuss:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (9, 'The Cat in the Hat', 3, 58, 1957, 'The Cat in the Hat comes to visit two children on a very rainy day when their mother is away, and proceeds to turn their house upside down.'),
+    (10, 'Green Eggs and Ham', 3, 64, 1960, 'A character tries to convince another character to eat green eggs and ham.'),
+    (11, 'The Lorax', 3, 71, 1971, 'A tale of how the greed of industry can destroy the environment.'),
+    (12, 'One Fish Two Fish Red Fish Blue Fish', 3, 72, 1960, 'A series of short poems about a variety of creatures.'),
+    (13, 'Fox in Socks', 3, 96, 1965, 'A series of tongue-twisters featuring a fox in socks.'),
+    (14, 'Horton Hears a Who', 3, 72, 1954, 'A story of how even the smallest creatures can make a difference.'),
+    (15, 'How the Grinch Stole Christmas', 3, 96, 1957, 'A grumpy hermit hatches a scheme to steal Christmas from the Whos of Whoville.');
+
+Insert sample data for books by Mark Twain:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (16, 'The Adventures of Huckleberry Finn', 4, 224, 1884, 'A young boy runs away from home and floats down the Mississippi River on a raft, encountering a variety of characters along the way.'),
+    (17, 'The Adventures of Tom Sawyer', 4, 224, 1876, 'A young boy growing up in a small town on the Mississippi River in the 1840s has a series of adventures with his friends.'),
+    (18, 'The Prince and the Pauper', 4, 224, 1881, 'A poor boy in England in the 1500s who looks exactly like the prince swaps places with him, and the two have a series of adventures.'),
+    (19, 'The Mysterious Stranger', 4, 176, 1916, 'A young boy living in a small Austrian village in the 1600s has a series of supernatural encounters.');
+
+Insert sample data for books by Leo Tolstoy:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (20, 'War and Peace', 5, 1225, 1865, 'An epic historical novel set during the French invasion of Russia in 1812, and following the stories of several Russian aristocratic families.'),
+    (21, 'Anna Karenina', 5, 864, 1878, 'An epic love story following the life of Anna Karenina, a married aristocrat who has an affair with the wealthy Count Vronsky.'),
+    (22, 'The Death of Ivan Ilyich', 5, 144, 1886, 'The story of a man who, on his deathbed, realizes that his life has been wasted and empty.');
+
+Insert sample data for books by Antoine de Saint-Exupéry:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (23, 'The Little Prince', 6, 77, 1943, 'The story of a pilot who crash-lands in the Sahara Desert and meets a young prince from a small planet who is visiting Earth.'),
+    (24, 'Night Flight', 6, 192, 1931, 'The story of a group of pilots flying mail planes through the Andes Mountains at night in unsafe conditions.');
+
+Insert sample data for books by Maya Angelou:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (25, 'I Know Why the Caged Bird Sings', 7, 304, 1969, 'The first volume of Maya Angelou\'s autobiography, covering her childhood up to age 17, and detailing her experiences growing up as a black girl in the American South in the 1930s and 1940s.');
+
+Insert sample data for books by George Orwell:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (26, 'Animal Farm', 8, 112, 1945, 'A political allegory about the rise of Stalinism in the Soviet Union, told through the story of a group of animals who overthrow their human farmer and attempt to create a utopia.'),
+    (27, 'Nineteen Eighty-Four', 8, 328, 1949, 'A dystopian novel about a society where the government controls everything, and where thoughtcrime is punishable by death.');
+
+Insert sample data for books by Ralph Waldo Emerson:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (28, 'Essays', 9, 192, 1841, 'A collection of essays on various topics, including self-reliance, nature, and beauty.'),
+    (29, 'The Conduct of Life', 9, 288, 1860, 'A collection of essays on various topics relating to ethics and morality.'),
+    (30, 'Nature', 9, 64, 1836, 'An essay on the relationship between humans and nature.');
+
+Insert sample data for books by Margaret Atwood:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (31, 'The Handmaid\'s Tale', 10, 311, 1985, 'A dystopian novel set in a theocratic dictatorship where women are reduced to the role of child-bearing slaves, and follows the story of one woman who is trying to escape.'),
+    (32, 'The Testaments', 10, 400, 2019, 'A sequel to "The Handmaid\'s Tale" set 15 years after the events of the original novel, and told from the perspective of three different women.');
+
+Insert sample data for books by Albert Einstein:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (33, 'Relativity', 11, 160, 1916, 'A popular science book on the theory of relativity by one of its inventors.'),
+    (34, 'The World as I See It', 11, 192, 1934, 'A collection of essays on various topics, including politics, religion, and science.'),
+    (35, 'Out of My Later Years', 11, 288, 1950, 'A collection of essays on various topics, including aging, science, and humanism.');
+
+Insert sample data for books by F. Scott Fitzgerald:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (36, 'The Great Gatsby', 12, 180, 1925, 'The story of Jay Gatsby, a wealthy man who is in love with the beautiful Daisy Buchanan, and who will go to great lengths to win her over.'),
+    (37, 'Tender Is the Night', 12, 288, 1934, 'The story of a wealthy couple, Dick and Nicole Diver, and their struggles with mental illness and infidelity.'),
+    (38, 'The Beautiful and Damned', 12, 368, 1922, 'The story of Anthony and Gloria Patch, a wealthy couple in New York City in the early 1900s, and their decadent lifestyle.');
+
+Insert sample data for books by J.D. Salinger:
+
+     INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (39, 'The Catcher in the Rye', 13, 224, 1951, 'The story of Holden Caulfield, a teenage boy who is kicked out of a prestigious boarding school and becomes a wanderer in New York City.'),
+    (40, 'Nine Stories', 13, 288, 1953, 'A collection of short stories about various topics, including love, war, and death.'),
+    (41, 'Franny and Zooey', 13, 192, 1961, 'The story of Franny Glass, a young woman who is struggling with her faith, and her brother Zooey, who tries to help her.');
+
+Insert sample data for books by Vladimir Nabokov:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (42, 'Lolita', 14, 352, 1955, 'The story of Humbert Humbert, a middle-aged man who becomes obsessed with a 12-year-old girl, Lolita.'),
+    (43, 'Pale Fire', 14, 336, 1962, 'The story of an aging poet who is murdered, and the professor who tries to solve the mystery.'),
+    (44, 'Ada or Ardor', 14, 608, 1969, 'The story of an incestuous relationship between a brother and sister, told through a series of flashbacks.');
+
+Insert sample data for books by Herman Melville:
+
+    INSERT INTO Books (book_id, title, author_id, pages, year_released, one_sentence_summary)
+    VALUES (45, 'Moby-Dick', 15, 752, 1851, 'The story of Captain Ahab, a man who is obsessed with revenge against a giant white whale, and the crew of his ship, the Pequod.'),
+    (46, 'Billy Budd', 15, 288, 1924, 'The story of Billy Budd, a young man who is unjustly accused of mutiny and executed, set on a ship during the Napoleonic Wars.'),
+    (47, 'Typee', 15, 304, 1846, 'The story of a sailor who is stranded on an island of cannibals, based on the author
