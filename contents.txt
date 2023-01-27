@@ -1,0 +1,248 @@
+
+2022_01_Spring
+2022_01_Spring/HealthyThinking
+2022_01_Spring/HealthyThinking/HealthyThinking_RCTC.pptx
+2022_01_Spring/HealthyThinking/HealthyThinking_LIFE.pptx
+2022_01_Spring/HealthyThinking/HealthyThinking_RCTC.pdf
+2022_01_Spring/HealthyThinking/HealhyThiking_Notes.docx
+2022_01_Spring/Ethics
+2022_01_Spring/Ethics/Ethics_00_CaseStudyGuide.pdf
+2022_01_Spring/Ethics/Ethics_Story_RoanhorseAIE.pdf
+2022_01_Spring/Ethics/Ethics_B6_TwoConceptsOfLiberty.pdf
+2022_01_Spring/Ethics/Ethics_B4_SingerAnimals.pdf
+2022_01_Spring/Ethics/Ethics_A4_WilliamsMakropulos.pdf
+2022_01_Spring/Ethics/Ethics_C1_SocialContract.pdf
+2022_01_Spring/Ethics/Ethics_B7_NaturalLaw.pdf
+2022_01_Spring/Ethics/Ethics_B3_Utilitarianism.pdf
+2022_01_Spring/Ethics/Ethics_A1_Crito.pdf
+2022_01_Spring/Ethics/Ethics_A5_CulturalRelativism.pdf
+2022_01_Spring/Ethics/Ethics_A9_Immigration.pdf
+2022_01_Spring/Ethics/Ethics_A8_MoralJudgements.pdf
+2022_01_Spring/Ethics/Ethics_C2_AristotleVirtue.pdf
+2022_01_Spring/Ethics/Ethics_B1_Egoism.pdf
+2022_01_Spring/Ethics/Ethics_A7_Autonomy.pdf
+2022_01_Spring/Ethics/Ethics_A2_KingCivilDisobedience.pdf
+2022_01_Spring/Ethics/Ethics_B5_KantDeontology.pdf
+2022_01_Spring/Ethics/Ethics_A3_EthicsValues.pdf
+2022_01_Spring/Ethics/Ethics_B2_SartreExistentialism.pdf
+2022_01_Spring/Ethics/Ethics_Story_LeGuinOmelas.pdf
+2022_01_Spring/Ethics/Ethics_B8_Euthanasia.pdf
+2022_01_Spring/Bioethics
+2022_01_Spring/Bioethics/Bioethics_B5_Beneficence.pdf
+2022_01_Spring/Bioethics/Bioethics_B7_Justice.pdf
+2022_01_Spring/Bioethics/Bioethics_B2_InformedConsent.pdf
+2022_01_Spring/Bioethics/Bioethics_C4_DutiesRightsVirtues.pdf
+2022_01_Spring/Bioethics/Bioethics_A5_MoralStatus.pdf
+2022_01_Spring/Bioethics/Bioethics_A4_Ideals.pdf
+2022_01_Spring/Bioethics/Bioethics_B3_Nonmalificence.pdf
+2022_01_Spring/Bioethics/Bioethics_A2_Principlism.pdf
+2022_01_Spring/Bioethics/Bioethics_C1_ProfessionalPatient.pdf
+2022_01_Spring/Bioethics/Bioethics_C2_FidelityConfidentiality.pdf
+2022_01_Spring/Bioethics/Bioethics_A1_CommonMorality.pdf
+2022_01_Spring/Bioethics/Bioethics_Exam1.pdf
+2022_01_Spring/Bioethics/Bioethics_A3_Virtues.pdf
+2022_01_Spring/Bioethics/Bioethics_Exam2.pdf
+2022_01_Spring/Bioethics/Bioethics_B1_Autonomy.pdf
+2022_01_Spring/Bioethics/Bioethics_A6_MoralStatusGuidelines.pdf
+2022_01_Spring/Bioethics/CaseStudies_Exam2.pdf
+2022_01_Spring/Bioethics/Bioethics_B8_HealthCareIntro.pdf
+2022_01_Spring/Bioethics/Bioethics_C5_MetaethicsAndMethod.pdf
+2022_01_Spring/Bioethics/Bioethics_C3_MoralTheories.pdf
+2022_01_Spring/Bioethics/Bioethics_B9B_FixingUsHealthCare.pdf
+2022_01_Spring/Bioethics/Bioethics_B4_KillingLettingDie.pdf
+2022_01_Spring/Bioethics/Bioethics_B6_Paternalism.pdf
+2022_01_Spring/Bioethics/Bioethics_B9A_HealthCareCosts.pdf
+Scientific_Reasoning
+Scientific_Reasoning/ScienceReasoning_00_Syllabus.pdf
+Scientific_Reasoning/ScientificReasoning_05_Realism.pdf
+Scientific_Reasoning/ScientificReasoning_06_Pseudoscience.pdf
+Scientific_Reasoning/ScientificReasoning_03b_MethodHistory.pdf
+Scientific_Reasoning/ScientificReasoning_03a_MethodIntro.pdf
+Scientific_Reasoning/ScientificReasoning_04_ScientificChange.pdf
+Scientific_Reasoning/ScienceReasoning_02_Knowledge.pdf
+Scientific_Reasoning/ScienceReasoning_01_Introduction.pdf
+Scientific_Reasoning/ScientificReasoning_03_Method.pdf
+contents.txt
+2021_03_Fall
+2021_03_Fall/WestCanon1
+2021_03_Fall/WestCanon1/WestCanon_Essay2.docx
+2021_03_Fall/WestCanon1/WestCanon_A5_Iliad.docx
+2021_03_Fall/WestCanon1/WestCanon_00_Syllabus.docx
+2021_03_Fall/WestCanon1/WestCanon_C4_Chaucer.docx
+2021_03_Fall/WestCanon1/WestCanon_A10_Aristotle.docx
+2021_03_Fall/WestCanon1/WestCanon_A1_Torah.docx
+2021_03_Fall/WestCanon1/WestCanon_B6_EpicureansSkeptics.docx
+2021_03_Fall/WestCanon1/WestCanon_A9_Medea.docx
+2021_03_Fall/WestCanon1/WestCanon_B7_Islam_Basics.docx
+2021_03_Fall/WestCanon1/WestCanon_B2_OvidianActivities.docx
+2021_03_Fall/WestCanon1/WestCanon_00_PerusallInstructions.docx
+2021_03_Fall/WestCanon1/WestCanon_B5_Stoicism.docx
+2021_03_Fall/WestCanon1/WestCanon_A8_Symposium.docx
+2021_03_Fall/WestCanon1/WestCanon_A6_Odyssey.docx
+2021_03_Fall/WestCanon1/WestCanon_A3_Gilgamesh.docx
+2021_03_Fall/WestCanon1/WestCanon_B1_Ovid.docx
+2021_03_Fall/WestCanon1/WestCanon_B3_Christianity_Basics.docx
+2021_03_Fall/WestCanon1/WestCanon_A4_HerosJourney.docx
+2021_03_Fall/WestCanon1/WestCanon_FinalProject.docx
+2021_03_Fall/WestCanon1/WestCanon_Essay3.docx
+2021_03_Fall/WestCanon1/WestCanon_A2_HebrewPoems.docx
+2021_03_Fall/WestCanon1/WestCanon_C2_DanteInferno.docx
+2021_03_Fall/WestCanon1/WestCanon_C3_NaturalLaw.docx
+2021_03_Fall/WestCanon1/WestCanon_C1_LyricPoetry.docx
+2021_03_Fall/WestCanon1/WestCanon_A7_PlatoCave.docx
+2021_03_Fall/WestCanon1/WestCanon_B4_Christianity_Revelations.docx
+2021_03_Fall/WestCanon1/WestCanon_Essay1.docx
+README.md
+2021_02_Summer
+2021_02_Summer/Ethics
+2021_02_Summer/Ethics/Ethics_B1_KantDeontology.docx
+2021_02_Summer/Ethics/Ethics_Exam1.docx
+2021_02_Summer/Ethics/Ethics_A2_Crito.docx
+2021_02_Summer/Ethics/Ethics_C5_Racism.docx
+2021_02_Summer/Ethics/Ethics_A1_Euthyphro.docx
+2021_02_Summer/Ethics/Ethics_00_Syllabus.docx
+2021_02_Summer/Ethics/Ethics_C2_MarquisAbortion.docx
+2021_02_Summer/Ethics/Ethics_C4_Immigration.docx
+2021_02_Summer/Ethics/Ethics_C6_Sexism.docx
+2021_02_Summer/Ethics/Ethics_A0_EthicalTheoryOverview.docx
+2021_02_Summer/Ethics/Ethics_B4_NaturalLaw.docx
+2021_02_Summer/Ethics/Ethics_C7_MeaningInLife.docx
+2021_02_Summer/Ethics/Ethics_A5_Egoism.docx
+2021_02_Summer/Ethics/Ethics_A3_KingCivilDisobedience.docx
+2021_02_Summer/Ethics/Ethics_C3_SingerAnimals.docx
+2021_02_Summer/Ethics/Ethics_B2_Utilitarianism.docx
+2021_02_Summer/Ethics/Ethics_A4_CulturalRelativism.docx
+2021_02_Summer/Ethics/Ethics_C1_ThomsonAbortion.docx
+2021_02_Summer/Ethics/Ethics_Exam2.docx
+2021_02_Summer/Ethics/Ethics_B3_Aristotle_Virtue.docx
+2021_02_Summer/Logic
+2021_02_Summer/Logic/Logic_E4_ScientificReasoning (13).docx
+2021_02_Summer/Logic/Logic_D1_PropLogicSymbols (6-1).docx
+2021_02_Summer/Logic/Logic_E3_Statistics (12).docx
+2021_02_Summer/Logic/Logic_A1_Arguments (1-1).docx
+2021_02_Summer/Logic/Logic_E6_PopperKuhn_Pseudoscience (14).docx
+2021_02_Summer/Logic/Logic_C3_ImmInferences (4-4-6).docx
+2021_02_Summer/Logic/Logic_D4_TTArguments (6-4).docx
+2021_02_Summer/Logic/Logic_E7_TrickingOurselves.docx
+2021_02_Summer/Logic/Logic_D7_PredicateLogic (8-1).docx
+2021_02_Summer/Logic/Logic_A4_ArgumentEval (1-4).docx
+2021_02_Summer/Logic/Logic_D6b_SampleArgs.docx
+2021_02_Summer/Logic/Logic_A3B_ThreeWaysOfGettingItWrong.docx
+2021_02_Summer/Logic/Logic_D5_IndTT (6-5).docx
+2021_02_Summer/Logic/Logic_A5_Counterexamples (1-5).docx
+2021_02_Summer/Logic/Logic_A2_RecognizingArguments (1-2).docx
+2021_02_Summer/Logic/Logic_D2_TruthFunctions (6-2).docx
+2021_02_Summer/Logic/Logic_C1_CategoricalStatements (4-1,2,7).docx
+2021_02_Summer/Logic/Logic_E5_Confirmation (13).docx
+2021_02_Summer/Logic/Logic_B4_FallaciesGod (3-5).docx
+2021_02_Summer/Logic/Logic_B2_FallaciesRelevance (3-2).docx
+2021_02_Summer/Logic/Logic_00_Syllabus.docx
+2021_02_Summer/Logic/Logic_A3_ArgumentType (1-3).docx
+2021_02_Summer/Logic/Logic_E2_BestExplanationAbortion.docx
+2021_02_Summer/Logic/Logic_BQ_FallaciesQuiz.docx
+2021_02_Summer/Logic/Logic_B0_Bullshit.docx
+2021_02_Summer/Logic/Logic_B1_IntroFallacies (3-1,4).docx
+2021_02_Summer/Logic/Logic_E1_Analogy_Abortion.docx
+2021_02_Summer/Logic/Logic_AX_Arguments (1-2-3).docx
+2021_02_Summer/Logic/Logic_D6_ArgForms (6-6).docx
+2021_02_Summer/Logic/Logic_B3_FallaciesWeakInduction (3-3).docx
+2021_02_Summer/Logic/Logic_C2_VennDiag_SoO (4-3-5).docx
+2021_02_Summer/Logic/Logic_CX_CatLogicPractice.docx
+2021_02_Summer/Logic/Logic_D3_TTPropositions (6-3).docx
+2022_02_Summer
+2022_02_Summer/Ethics
+2022_02_Summer/Ethics/Ethics_Ch10_SexGender.docx
+2022_02_Summer/Ethics/Ethics Outline.docx
+2022_02_Summer/Ethics/Ethics_Ch6_VirtueEthics.docx
+2022_02_Summer/Ethics/Ethics_ShortEssay_BasicConcepts.docx
+2022_02_Summer/Ethics/Ethics_QuizQuestions.docx
+2022_02_Summer/Ethics/Ethics_Ch8_SocialContract_Immigration.docx
+2022_02_Summer/Ethics/Ethics_Ch0_EthicalTheory.docx
+2022_02_Summer/Ethics/Ethics_Ch2_MLKRace.docx
+2022_02_Summer/Ethics/Ethics_ShortEssay_StoryPoemSpeech.docx
+2022_02_Summer/Ethics/Ethics_Ch1_Basics.edited.docx
+2022_02_Summer/Ethics/Ethics_Ch2_MLKRace.edited.docx
+2022_02_Summer/Ethics/Ethics_Ch1_Basics.docx
+2022_02_Summer/Ethics/Ethics_Ch3_RelativismExistentialism.docx
+2022_02_Summer/Ethics/Ethics_Ch7_Religion.docx
+2022_02_Summer/Ethics/Ethics_ReflectionAssignment.docx
+2022_02_Summer/Ethics/Ethics_ShortEssay_MLK_Rel.docx
+2022_02_Summer/Ethics/Ethics_Ch5_KantDeontology.docx
+2022_02_Summer/Ethics/Ethics_Syllabus_Sm22.docx
+2022_02_Summer/Ethics/Ethics_Ch4_Utilitarianism.docx
+2022_02_Summer/Ethics/Ethics_ShortEssay_DebateMovie.docx
+2022_02_Summer/Ethics/Ethics_Ch9_Liberty.docx
+2022_03_Fall
+2022_03_Fall/Database
+2022_03_Fall/Database/Database_05_AdvancedModeling.pdf
+2022_03_Fall/Database/Database_PSET_1.pdf
+2022_03_Fall/Database/Books_And_Authors.sql
+2022_03_Fall/Database/Database_01_IntroToDatabase.pdf
+2022_03_Fall/Database/Database_03_RelationalModel.pdf
+2022_03_Fall/Database/Chapter7-1.sql
+2022_03_Fall/Database/Database_04_EntityRelationshipModel.pdf
+2022_03_Fall/Database/brendans_books_lite.db
+2022_03_Fall/Database/Database_Syllabus_Fa22.pdf
+2022_03_Fall/Database/Database_PSET_2.pdf
+2022_03_Fall/Database/Books_Sql.txt
+2022_03_Fall/Database/Database_PSET_3.pdf
+2022_03_Fall/Database/Database_06_TheLifeOfData.pdf
+2022_03_Fall/Database/Database_00_HowToSucceedInCS.pdf
+2022_03_Fall/Database/Database_02_DataModels.pdf
+2022_03_Fall/Logic
+2022_03_Fall/Logic/Logic_Ch02_ArgTypes.pdf
+2022_03_Fall/Logic/Logic_Project_ScienceMovies.pdf
+2022_03_Fall/Logic/Logic_Ch04_FallaciesWeakInduction.pdf
+2022_03_Fall/Logic/Logic_Ch03_IntroFallacies.pdf
+2022_03_Fall/Logic/Logic_Ch05_Bullshit.pdf
+2022_03_Fall/Logic/Logic_ReflectionAssignment.pdf
+2022_03_Fall/Logic/Logic_Ch06_MoralLegal.pdf
+2022_03_Fall/Logic/Logic_Ch10_Statistics.pdf
+2022_03_Fall/Logic/Logic_Project_EthicsScience.pdf
+2022_03_Fall/Logic/Logic_Project_Fallacies.pdf
+2022_03_Fall/Logic/Logic_Ch01_IntroLogic.pdf
+2022_03_Fall/Logic/Logic_Project_Python.pdf
+2022_03_Fall/Logic/Logic_Ch07_ScientificReasoning.pdf
+2022_03_Fall/Logic/Logic_Ch09_FormalLogic.pdf
+2022_03_Fall/Logic/Logic_Project_ReasonablePeople.pdf
+2022_03_Fall/Logic/Logic_Syllabus_Fa22.docx
+2022_03_Fall/Logic/Logic_Ch08_PhilOfScience.pdf
+2022_03_Fall/ScienceFiction
+2022_03_Fall/ScienceFiction/SciFi_06_Omelas.pdf
+2022_03_Fall/ScienceFiction/SciFi_Ch8_MoralLuck.pdf
+2022_03_Fall/ScienceFiction/SciFi_Syllabus_Fa22.docx
+2022_03_Fall/ScienceFiction/SciFi_Project_Requirements.pdf
+2022_03_Fall/ScienceFiction/SciFi_Ch11_StoicSuperheroes.pdf
+2022_03_Fall/ScienceFiction/SciFi_05_MarxOrwell.pdf
+2022_03_Fall/ScienceFiction/SciFi_03_AuthenticIndianExperience.pdf
+2022_03_Fall/ScienceFiction/SciFi_07_StarWars.pdf
+2022_03_Fall/ScienceFiction/SciFi_01_TheCave.pdf
+2022_03_Fall/ScienceFiction/SciFi_Ch10_Vampires.pdf
+2022_03_Fall/ScienceFiction/SciFi_Ch09_EpicFantasy.pdf
+2022_03_Fall/ScienceFiction/DiscussionQuestions_SelectedMovies.pdf
+2022_03_Fall/ScienceFiction/SciFi_04_AnimalFarm.pdf
+2022_03_Fall/ScienceFiction/SciFi_02_TheMatrix.pdf
+2022_03_Fall/ScienceFiction/SciFi_12_TimeTroubles.pdf
+2022_03_Fall/ScienceFiction/SciFi_MovieAssignment.pdf
+2022_03_Fall/Bioethics
+2022_03_Fall/Bioethics/Bioethics_Ch9_TruthPrivacy.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch2_Virtues.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch12_MentalIllness.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch1_PrinciplesTheories.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch10_ClinicalTrials.pdf
+2022_03_Fall/Bioethics/Bioethics_Syllabus_Fa22.docx
+2022_03_Fall/Bioethics/Bioethics_ShortEssay_PaternalismJustice.docx
+2022_03_Fall/Bioethics/Bioethics_Ch3_MoralStatus.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch4_Abortion.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch5_Autonomy.pdf
+2022_03_Fall/Bioethics/Bioethics_ShortEssay_EuthanasiaMovie.docx
+2022_03_Fall/Bioethics/Bioethics_Ch6_NoHarm.pdf
+2022_03_Fall/Bioethics/Bioethics_Ch8_JusticeHealthCare.pdf
+2022_03_Fall/Bioethics/Bioethics_ShortEssay_VirtuesMoralStatus.docx
+2022_03_Fall/Bioethics/Bioethics_Ch7_BeneficencePaternalism.pdf
+2022_03_Fall/Bioethics/Bioethics_ReflectionAssignment.docx
+2022_03_Fall/Bioethics/Bioethics_Ch11_Death.pdf
+2022_03_Fall/Bioethics/Bioethics_ShortEssay_PrinciplesTheories.docx
+2022_03_Fall/War
+2022_03_Fall/War/EthicsOfWar_LIFE.pdf
+2022_03_Fall/War/EthicsOfWar_LIFE.docx
