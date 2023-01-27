@@ -1,12 +1,7 @@
 # Teaching Repository
 Welcome to my teaching repository! Here, you will find files and directories for classes I have taught since 2003. Feel free to browse the contents, and take advantage of the material available here. All written material created by me (Brendan) is available under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). 
 
-## 2022_02_Summer
-### Ethics
-This directory contains material related to my Ethics class in summer 2022. 
-* Check out the [Syllabus](2022_02_Summer/Ethics/Ethics_Syllabus_Sm22.docx) for an overview of the course. 
-* Read up on the basics with my [Introduction to Ethical Theory](2022_02_Summer/Ethics/Ethics_Ch0_EthicalTheory.docx).
-* Reflect on your learning with the [Reflection Assignment](2022_02_Summer/Ethics/Ethics_ReflectionAssignment.docx). 
+Here are some recent highlights.
 
 ## 2022_03_Fall
 ### Database
@@ -43,4 +38,11 @@ This directory contains material related to my Bioethics class in fall 2022.
 * Check out the [Syllabus](2022_03_Fall/Bioethics/Bioethics_Syllabus_Fa22.docx) for an overview of the course.
 * Dive into the basics with [Principles and Theories](2022_03_Fall/Bioethics/Bioethics_Ch1_PrinciplesTheories.pdf).
 * Examine Moral Status with the [Moral Status](2022_03_Fall/Bioethics/Bioethics_Ch3_MoralStatus.pdf) lecture. 
-* Explore the Ethics of Abortion with the [Abortion](2022_03_Fall/Bioethics
+
+## 2022_02_Summer
+### Ethics
+This directory contains material related to my Ethics class in summer 2022. 
+* Check out the [Syllabus](2022_02_Summer/Ethics/Ethics_Syllabus_Sm22.docx) for an overview of the course. 
+* Read up on the basics with my [Introduction to Ethical Theory](2022_02_Summer/Ethics/Ethics_Ch0_EthicalTheory.docx).
+* Reflect on your learning with the [Reflection Assignment](2022_02_Summer/Ethics/Ethics_ReflectionAssignment.docx). 
+
