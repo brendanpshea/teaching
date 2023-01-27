@@ -1,4 +1,4 @@
-# Teaching Repository
+# Teaching Material Repository
 Welcome to my teaching repository! Here, you will find files and directories for classes I have taught since 2003. Feel free to browse the contents, and take advantage of the material available here. All written material created by me (Brendan) is available under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). 
 
 Here are some recent highlights.
