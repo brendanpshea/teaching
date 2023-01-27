@@ -5,7 +5,6 @@ Welcome to my teaching repository! Here, you will find files and directories for
 ### Ethics
 This directory contains material related to my Ethics class in summer 2022. 
 * Check out the [Syllabus](2022_02_Summer/Ethics/Ethics_Syllabus_Sm22.docx) for an overview of the course. 
-* Test your knowledge with the [Quiz Questions](2022_02_Summer/Ethics/Ethics_QuizQuestions.docx). 
 * Read up on the basics with my [Introduction to Ethical Theory](2022_02_Summer/Ethics/Ethics_Ch0_EthicalTheory.docx).
 * Reflect on your learning with the [Reflection Assignment](2022_02_Summer/Ethics/Ethics_ReflectionAssignment.docx). 
 
@@ -34,7 +33,7 @@ This directory contains material related to my Science Fiction class in fall 202
 * Explore the Matrix with [The Matrix](2022_03_Fall/ScienceFiction/SciFi_02_TheMatrix.pdf). 
 * Discuss [The Authentic Indian Experience](2022_03_Fall/ScienceFiction/SciFi_03_AuthenticIndianExperience.pdf).
 * Analyze [Animal Farm](2022_03_Fall/ScienceFiction/SciFi_04_AnimalFarm.pdf). 
-* Read [Marx and Orwell](2022_03_Fall/ScienceFiction/SciFi_05_MarxOrwell.pdf).
+* Read about [Marx and Orwell](2022_03_Fall/ScienceFiction/SciFi_05_MarxOrwell.pdf).
 * Discuss [The Ones Who Walk Away from Omelas](2022_03_Fall/ScienceFiction/SciFi_06_Omelas.pdf).
 * Explore [Star Wars](2022_03_Fall/ScienceFiction/SciFi_07_StarWars.pdf). 
 * Assign your own movie with the [Movie Assignment](2022_03_Fall/ScienceFiction/SciFi_MovieAssignment.pdf).
